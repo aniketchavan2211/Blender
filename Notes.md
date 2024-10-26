@@ -52,6 +52,7 @@ ViewPort Shading : Solid > Rendered
 
 You can move object using pressing and holding `G` key on keyboard and moving cursor, or clicking on icon and you can move object according to axis.
 you can left click to cancel or right click to confirm the moved changes.
+
 <img width="209" alt="{898B3A9D-3093-4C01-944B-C6745878A5D6}" src="https://github.com/user-attachments/assets/b97a1886-29e0-4bfb-a0a7-c61c062b81d6">
 
 also you can move holding `G` key and what axis you want to move.
@@ -70,17 +71,14 @@ In Collection, click on Camera [N]> View > tick Camera to view.
 
 Camera to view, this will always make your view a camera viewpoint, it will move the camera.
 
-Adding colors to Monkey, select object from collection from right section, or simply move the cursor, go to properties, appear below, 
-then select Material > New > change Base color > adjust color.
+Adding colors to Monkey, select object from collection from right section, or simply move the cursor, go to properties, appear below, then select Material > New > change Base color > adjust color.
 
 To Scale the object click on this icon, 
+
 <img width="493" alt="{30A63E2B-1664-429A-9C1C-6DF54F66A2A3}" src="https://github.com/user-attachments/assets/5998e48e-dcb1-4c29-a35a-1c51bb721cbe">
 
 or HOTkey `S` or You can do with only one axis `S+X/Y/Z`
 
 To rotate an object click on icon, or use `R` for rotate.
+
 <img width="433" alt="{A2B00CFD-E94C-4749-9A5C-C85EC6BC6479}" src="https://github.com/user-attachments/assets/356dff47-6887-43e9-92bc-b3961d59a688">
-
-
-
-
