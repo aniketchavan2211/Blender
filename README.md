@@ -1,5 +1,4 @@
 # Blender
-Blender Notes
 
 ![blender_logo_socket](https://github.com/user-attachments/assets/45dda062-c71c-4843-8875-70ca801f9e63)
 
