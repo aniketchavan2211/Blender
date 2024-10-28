@@ -15,3 +15,5 @@ Key features include 3D modeling, texturing, animation, simulation, and video ed
 ### 3. [Modeling the Icing](Modeling%20the%20Icing.md)
 
 ### 4. [Sculpting](Sculpting.md)
+
+### 5. [Shading](Shading.md)
