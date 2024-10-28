@@ -44,6 +44,8 @@ Then Mesh Filer select inflate hold left click move cursor to adjust and also se
 
 
 Now, clear Mask Brush by
+
 <img width="698" alt="{D13BB13C-9DAE-4925-8953-89F9D02F2031}" src="https://github.com/user-attachments/assets/5dc78111-f774-4974-b8ef-cb894855c792">
+
 and use Smooth Bursh and smooth the edges of drops.
 
