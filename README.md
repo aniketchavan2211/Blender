@@ -17,3 +17,5 @@ Key features include 3D modeling, texturing, animation, simulation, and video ed
 ### 4. [Sculpting](Sculpting.md)
 
 ### 5. [Shading](Shading.md)
+
+### 6. [Geometry Nodes](Geometry%20Nodes.md)
