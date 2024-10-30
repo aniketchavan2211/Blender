@@ -18,4 +18,6 @@ Key features include 3D modeling, texturing, animation, simulation, and video ed
 
 ### 5. [Shading](Shading.md)
 
-### 6. [Geometry Nodes](Geometry%20Nodes.md)
+### 6. [Geometry Nodes Round Sprinkles](Geometry%20Nodes.md)
+
+### 7. [Geometry Nodes Long Sprinkles](Geometry%20Nodes%20long%20sprinkles.md)
