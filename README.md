@@ -24,4 +24,4 @@ Key features include 3D modeling, texturing, animation, simulation, and video ed
 
 ### 8. [Rendering](Rendering.md)
 
-### 9. [Layout}(Layout.md)
+### 9. [Layout](Layout.md)
